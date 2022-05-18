@@ -1,5 +1,4 @@
-# OG-pizza-hut-project
-Recreation of Pizza Hut landing page
+
 <index.html>
     <html>
     <head></head>
